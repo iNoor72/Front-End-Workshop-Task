@@ -1,0 +1,23 @@
+h3{
+
+    text-align: center;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    color: rgb(57, 5, 5);
+}
+
+img{
+
+    width: 175px;
+    height: 175px;
+    padding: 5px;
+}
+.general{
+
+    margin-left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    /* justify-items: center; */
+    
+}
